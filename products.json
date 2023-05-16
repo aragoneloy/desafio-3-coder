@@ -1,0 +1,38 @@
+[
+	{
+		"id": 2,
+		"title": "cinta",
+		"description": " amarilla",
+		"price": 1,
+		"thumbnail": "/cintadoble",
+		"code": 1,
+		"stock": 122
+	},
+	{
+		"id": 3,
+		"title": "cinta",
+		"description": " amarilla",
+		"price": 1,
+		"thumbnail": "/cintadoble",
+		"code": 1,
+		"stock": 122
+	},
+	{
+		"id": 4,
+		"title": "cinta",
+		"description": " amarilla",
+		"price": 1,
+		"thumbnail": "/cintadoble",
+		"code": 1,
+		"stock": 122
+	},
+	{
+		"id": 5,
+		"title": "cinta",
+		"description": " amarilla",
+		"price": 1,
+		"thumbnail": "/cintadoble",
+		"code": 1,
+		"stock": 122
+	}
+]
